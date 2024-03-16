@@ -1,0 +1,15 @@
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\obj\Debug\net6.0\FundamentalsI.csproj.AssemblyReference.cache
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\obj\Debug\net6.0\FundamentalsI.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\obj\Debug\net6.0\FundamentalsI.AssemblyInfoInputs.cache
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\obj\Debug\net6.0\FundamentalsI.AssemblyInfo.cs
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\obj\Debug\net6.0\FundamentalsI.csproj.CoreCompileInputs.cache
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\bin\Debug\net6.0\FundamentalsI.exe
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\bin\Debug\net6.0\FundamentalsI.deps.json
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\bin\Debug\net6.0\FundamentalsI.runtimeconfig.json
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\bin\Debug\net6.0\FundamentalsI.dll
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\bin\Debug\net6.0\FundamentalsI.pdb
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\obj\Debug\net6.0\FundamentalsI.dll
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\obj\Debug\net6.0\refint\FundamentalsI.dll
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\obj\Debug\net6.0\FundamentalsI.pdb
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\obj\Debug\net6.0\FundamentalsI.genruntimeconfig.cache
+E:\DotNet_Assignments\week1\day1\practice\FundamentalsI\obj\Debug\net6.0\ref\FundamentalsI.dll

@@ -1,0 +1,15 @@
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\bin\Debug\net6.0\HelloDotnet.exe
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\bin\Debug\net6.0\HelloDotnet.deps.json
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\bin\Debug\net6.0\HelloDotnet.runtimeconfig.json
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\bin\Debug\net6.0\HelloDotnet.dll
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\bin\Debug\net6.0\HelloDotnet.pdb
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\obj\Debug\net6.0\HelloDotnet.csproj.AssemblyReference.cache
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\obj\Debug\net6.0\HelloDotnet.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\obj\Debug\net6.0\HelloDotnet.AssemblyInfoInputs.cache
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\obj\Debug\net6.0\HelloDotnet.AssemblyInfo.cs
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\obj\Debug\net6.0\HelloDotnet.csproj.CoreCompileInputs.cache
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\obj\Debug\net6.0\HelloDotnet.dll
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\obj\Debug\net6.0\refint\HelloDotnet.dll
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\obj\Debug\net6.0\HelloDotnet.pdb
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\obj\Debug\net6.0\HelloDotnet.genruntimeconfig.cache
+E:\DotNet_Assignments\week1\day1\practice\HelloDotnet\obj\Debug\net6.0\ref\HelloDotnet.dll
