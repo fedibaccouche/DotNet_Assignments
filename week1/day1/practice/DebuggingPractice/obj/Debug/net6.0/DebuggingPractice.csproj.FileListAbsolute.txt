@@ -1,0 +1,15 @@
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.csproj.AssemblyReference.cache
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.AssemblyInfoInputs.cache
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.AssemblyInfo.cs
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.csproj.CoreCompileInputs.cache
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.exe
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.deps.json
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.runtimeconfig.json
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.dll
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.pdb
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.dll
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\obj\Debug\net6.0\refint\DebuggingPractice.dll
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.pdb
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.genruntimeconfig.cache
+E:\DotNet_Assignments\week1\day1\practice\DebuggingPractice\obj\Debug\net6.0\ref\DebuggingPractice.dll
