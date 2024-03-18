@@ -1,0 +1,15 @@
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.csproj.AssemblyReference.cache
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.AssemblyInfoInputs.cache
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.AssemblyInfo.cs
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.csproj.CoreCompileInputs.cache
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\bin\Debug\net6.0\FundamentalsIII.exe
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\bin\Debug\net6.0\FundamentalsIII.deps.json
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\bin\Debug\net6.0\FundamentalsIII.runtimeconfig.json
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\bin\Debug\net6.0\FundamentalsIII.dll
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\bin\Debug\net6.0\FundamentalsIII.pdb
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.dll
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\obj\Debug\net6.0\refint\FundamentalsIII.dll
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.pdb
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\obj\Debug\net6.0\FundamentalsIII.genruntimeconfig.cache
+E:\DotNet_Assignments\week1\day1\core\FundamentalsIII\obj\Debug\net6.0\ref\FundamentalsIII.dll
