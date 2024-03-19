@@ -1,0 +1,15 @@
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\bin\Debug\net6.0\Puzzles.exe
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\bin\Debug\net6.0\Puzzles.deps.json
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\bin\Debug\net6.0\Puzzles.runtimeconfig.json
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\bin\Debug\net6.0\Puzzles.dll
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\bin\Debug\net6.0\Puzzles.pdb
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\obj\Debug\net6.0\Puzzles.csproj.AssemblyReference.cache
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\obj\Debug\net6.0\Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\obj\Debug\net6.0\Puzzles.AssemblyInfoInputs.cache
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\obj\Debug\net6.0\Puzzles.AssemblyInfo.cs
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\obj\Debug\net6.0\Puzzles.csproj.CoreCompileInputs.cache
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\obj\Debug\net6.0\Puzzles.dll
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\obj\Debug\net6.0\refint\Puzzles.dll
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\obj\Debug\net6.0\Puzzles.pdb
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\obj\Debug\net6.0\Puzzles.genruntimeconfig.cache
+E:\DotNet_Assignments\week1\day1\practice\Puzzles\obj\Debug\net6.0\ref\Puzzles.dll
