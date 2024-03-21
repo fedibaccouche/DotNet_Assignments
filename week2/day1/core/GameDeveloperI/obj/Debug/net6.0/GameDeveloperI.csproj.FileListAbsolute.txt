@@ -1,0 +1,15 @@
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.csproj.AssemblyReference.cache
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.AssemblyInfoInputs.cache
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.AssemblyInfo.cs
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.csproj.CoreCompileInputs.cache
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.exe
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.deps.json
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.runtimeconfig.json
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.dll
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\bin\Debug\net6.0\GameDeveloperI.pdb
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.dll
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\obj\Debug\net6.0\refint\GameDeveloperI.dll
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.pdb
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\obj\Debug\net6.0\GameDeveloperI.genruntimeconfig.cache
+E:\DotNet_Assignments\week2\day1\core\GameDeveloperI\obj\Debug\net6.0\ref\GameDeveloperI.dll
