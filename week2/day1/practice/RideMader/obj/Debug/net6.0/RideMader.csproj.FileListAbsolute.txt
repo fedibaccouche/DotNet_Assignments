@@ -1,0 +1,15 @@
+E:\DotNet_Assignments\week2\day1\practice\RideMader\obj\Debug\net6.0\RideMader.csproj.AssemblyReference.cache
+E:\DotNet_Assignments\week2\day1\practice\RideMader\obj\Debug\net6.0\RideMader.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet_Assignments\week2\day1\practice\RideMader\obj\Debug\net6.0\RideMader.AssemblyInfoInputs.cache
+E:\DotNet_Assignments\week2\day1\practice\RideMader\obj\Debug\net6.0\RideMader.AssemblyInfo.cs
+E:\DotNet_Assignments\week2\day1\practice\RideMader\obj\Debug\net6.0\RideMader.csproj.CoreCompileInputs.cache
+E:\DotNet_Assignments\week2\day1\practice\RideMader\bin\Debug\net6.0\RideMader.exe
+E:\DotNet_Assignments\week2\day1\practice\RideMader\bin\Debug\net6.0\RideMader.deps.json
+E:\DotNet_Assignments\week2\day1\practice\RideMader\bin\Debug\net6.0\RideMader.runtimeconfig.json
+E:\DotNet_Assignments\week2\day1\practice\RideMader\bin\Debug\net6.0\RideMader.dll
+E:\DotNet_Assignments\week2\day1\practice\RideMader\bin\Debug\net6.0\RideMader.pdb
+E:\DotNet_Assignments\week2\day1\practice\RideMader\obj\Debug\net6.0\RideMader.dll
+E:\DotNet_Assignments\week2\day1\practice\RideMader\obj\Debug\net6.0\refint\RideMader.dll
+E:\DotNet_Assignments\week2\day1\practice\RideMader\obj\Debug\net6.0\RideMader.pdb
+E:\DotNet_Assignments\week2\day1\practice\RideMader\obj\Debug\net6.0\RideMader.genruntimeconfig.cache
+E:\DotNet_Assignments\week2\day1\practice\RideMader\obj\Debug\net6.0\ref\RideMader.dll
