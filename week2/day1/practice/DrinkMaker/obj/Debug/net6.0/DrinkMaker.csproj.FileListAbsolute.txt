@@ -1,0 +1,15 @@
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\obj\Debug\net6.0\DrinkMaker.csproj.AssemblyReference.cache
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\obj\Debug\net6.0\DrinkMaker.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\obj\Debug\net6.0\DrinkMaker.AssemblyInfoInputs.cache
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\obj\Debug\net6.0\DrinkMaker.AssemblyInfo.cs
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\obj\Debug\net6.0\DrinkMaker.csproj.CoreCompileInputs.cache
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\bin\Debug\net6.0\DrinkMaker.exe
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\bin\Debug\net6.0\DrinkMaker.deps.json
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\bin\Debug\net6.0\DrinkMaker.runtimeconfig.json
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\bin\Debug\net6.0\DrinkMaker.dll
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\bin\Debug\net6.0\DrinkMaker.pdb
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\obj\Debug\net6.0\DrinkMaker.dll
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\obj\Debug\net6.0\refint\DrinkMaker.dll
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\obj\Debug\net6.0\DrinkMaker.pdb
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\obj\Debug\net6.0\DrinkMaker.genruntimeconfig.cache
+E:\DotNet_Assignments\week2\day1\practice\DrinkMaker\obj\Debug\net6.0\ref\DrinkMaker.dll
