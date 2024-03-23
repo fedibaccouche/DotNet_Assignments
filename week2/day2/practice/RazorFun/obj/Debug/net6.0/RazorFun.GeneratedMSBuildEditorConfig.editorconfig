@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorFun
 build_property.RootNamespace = RazorFun
-build_property.ProjectDir = E:\DotNet_Assignments\week2\day2\practice\RazorFun\
+build_property.ProjectDir = e:\DotNet_Assignments\week2\day2\practice\RazorFun\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\DotNet_Assignments\week2\day2\practice\RazorFun
+build_property.MSBuildProjectDirectory = e:\DotNet_Assignments\week2\day2\practice\RazorFun
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/DotNet_Assignments/week2/day2/practice/RazorFun/Views/List/Index.cshtml]
+[e:/DotNet_Assignments/week2/day2/practice/RazorFun/Views/List/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
