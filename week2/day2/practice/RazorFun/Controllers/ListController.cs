@@ -8,7 +8,7 @@ public class ListController : Controller
     [Route("")]
     public ViewResult Index()
     {
-        return View();
+        return View("Index");
     }
     
   
