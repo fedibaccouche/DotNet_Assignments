@@ -1,0 +1,15 @@
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\obj\Debug\net6.0\FuelUp.csproj.AssemblyReference.cache
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\obj\Debug\net6.0\FuelUp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\obj\Debug\net6.0\FuelUp.AssemblyInfoInputs.cache
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\obj\Debug\net6.0\FuelUp.AssemblyInfo.cs
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\obj\Debug\net6.0\FuelUp.csproj.CoreCompileInputs.cache
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\bin\Debug\net6.0\FuelUp.exe
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\bin\Debug\net6.0\FuelUp.deps.json
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\bin\Debug\net6.0\FuelUp.runtimeconfig.json
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\bin\Debug\net6.0\FuelUp.dll
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\bin\Debug\net6.0\FuelUp.pdb
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\obj\Debug\net6.0\FuelUp.dll
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\obj\Debug\net6.0\refint\FuelUp.dll
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\obj\Debug\net6.0\FuelUp.pdb
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\obj\Debug\net6.0\FuelUp.genruntimeconfig.cache
+E:\DotNet_Assignments\week2\day1\practice\FuelUp\obj\Debug\net6.0\ref\FuelUp.dll
