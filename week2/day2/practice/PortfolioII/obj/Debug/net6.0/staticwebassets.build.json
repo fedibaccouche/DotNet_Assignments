@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "6/Fm/03ptbByMIgKkFNVOVL/wAbxuwfQT5x3By0cc9g=",
+  "Source": "PortfolioII",
+  "BasePath": "_content/PortfolioII",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PortfolioII\\wwwroot",
+      "Source": "PortfolioII",
+      "ContentRoot": "E:\\DotNet_Assignments\\week2\\day2\\practice\\PortfolioII\\wwwroot\\",
+      "BasePath": "_content/PortfolioII",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\DotNet_Assignments\\week2\\day2\\practice\\PortfolioII\\wwwroot\\css\\style.css",
+      "SourceId": "PortfolioII",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DotNet_Assignments\\week2\\day2\\practice\\PortfolioII\\wwwroot\\",
+      "BasePath": "_content/PortfolioII",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
