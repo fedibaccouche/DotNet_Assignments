@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "cJI03HHLldtm+NeQqSes07ws6HlGGFE870FaTfiQsxY=",
+  "Source": "DojoSurvey",
+  "BasePath": "_content/DojoSurvey",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DojoSurvey\\wwwroot",
+      "Source": "DojoSurvey",
+      "ContentRoot": "E:\\DotNet_Assignments\\week2\\day2\\core\\DojoSurvey\\wwwroot\\",
+      "BasePath": "_content/DojoSurvey",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\DotNet_Assignments\\week2\\day2\\core\\DojoSurvey\\wwwroot\\css\\style.css",
+      "SourceId": "DojoSurvey",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DotNet_Assignments\\week2\\day2\\core\\DojoSurvey\\wwwroot\\",
+      "BasePath": "_content/DojoSurvey",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
