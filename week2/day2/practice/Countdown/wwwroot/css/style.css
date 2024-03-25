@@ -1,0 +1,17 @@
+.container{
+
+    width: 50%;
+    margin : 0 auto;
+}
+
+
+.timer{
+    display: flex;
+    justify-content: center;
+    gap:1.2rem;
+    margin: 1.2rem;
+}
+
+.time{
+    text-align: center;
+}

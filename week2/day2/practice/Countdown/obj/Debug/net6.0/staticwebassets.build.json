@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Fga55dqRA9R8lHQJ/818eh69pHqoxJyaxVpm/bFWDEU=",
+  "Source": "Countdown",
+  "BasePath": "_content/Countdown",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Countdown\\wwwroot",
+      "Source": "Countdown",
+      "ContentRoot": "E:\\DotNet_Assignments\\week2\\day2\\practice\\Countdown\\wwwroot\\",
+      "BasePath": "_content/Countdown",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\DotNet_Assignments\\week2\\day2\\practice\\Countdown\\wwwroot\\css\\style.css",
+      "SourceId": "Countdown",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DotNet_Assignments\\week2\\day2\\practice\\Countdown\\wwwroot\\",
+      "BasePath": "_content/Countdown",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}

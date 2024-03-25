@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "e:\\DotNet_Assignments\\week2\\day2\\practice\\RazorFun\\obj\\Debug\\net6.0\\project.razor.json",
-  "FilePath": "e:\\DotNet_Assignments\\week2\\day2\\practice\\RazorFun\\RazorFun.csproj",
+  "SerializedFilePath": "e:\\DotNet_Assignments\\week2\\day2\\practice\\PortfolioII\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "e:\\DotNet_Assignments\\week2\\day2\\practice\\PortfolioII\\PortfolioII.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -18371,11 +18371,21 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "RazorFun",
+  "RootNamespace": "PortfolioII",
   "Documents": [
     {
-      "FilePath": "e:\\DotNet_Assignments\\week2\\day2\\practice\\RazorFun\\Views\\List\\Index.cshtml",
-      "TargetPath": "Views\\List\\Index.cshtml",
+      "FilePath": "e:\\DotNet_Assignments\\week2\\day2\\practice\\PortfolioII\\Views\\Home\\Project.cshtml",
+      "TargetPath": "Views\\Home\\Project.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\DotNet_Assignments\\week2\\day2\\practice\\PortfolioII\\Views\\Home\\Contact.cshtml",
+      "TargetPath": "Views\\Home\\Contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\DotNet_Assignments\\week2\\day2\\practice\\PortfolioII\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
