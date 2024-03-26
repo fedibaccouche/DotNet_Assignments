@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+        <div class="container-md mt-5">
+
+            <form action="process" method="post">
+            <div class="form-group row m-1">
+                <label for="name" class="col-sm-2 col-form-label">Your Name</label>
+                    <div class="col-sm-10">
+                    <input type="text"  class="form-control" id="name" name="name" >
+                    </div>
+            </div>
+            <div class="form-group row m-1">
+                <label for="location" class="col-sm-2 col-form-label">Dojo Location</label>
+                <div class="col-sm-10">
+                    <select class="form-select" aria-label="Default select example" id="location" name="location">
+                        
+                        <option value="San Jose">San Jose</option>
+                        <option value="Tunisia">Tunisia</option>
+                        <option value="morocco">morocco</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group row m-1">
+                <label for="ln" class="col-sm-2 col-form-label">Favorite Language</label>
+                <div class="col-sm-10" >
+                        <select class="form-select" aria-label="Default select example" id="ln" name="ln">
+                            
+                            <option value="python">python</option>
+                            <option value="JavaScript">JavaScript</option>
+                            <option value="C#">C#</option>
+                        </select>
+                </div>
+            </div>
+            <div class="form-group row m-1">
+                <label for="textarea" class="col-sm-2 col-form-label">Comment(Optional)</label>
+                <div class="col-sm-10">
+                <textarea type="text" name="comment" class="form-control" id="textarea" ></textarea>
+                </div>
+            </div>
+            <div class="button">
+                <button type="submit" class="btn btn-primary" >Submit</button>
+            </div>
+            </form>
+    </div>
+</div>
