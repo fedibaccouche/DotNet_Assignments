@@ -1,0 +1,28 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+@model User
+<div class="text-center">
+
+    <div class="nav-bar">
+        <a class="link" href="/"> Home</a>
+        <div>|</div>
+        <a class="link" href="/numbers"> Numbers</a>
+        <div>|</div>
+        <p> User</p>
+        <div>|</div>
+        <a class="link" href="/users"> Users</a>
+
+    </div>  
+
+    <div class="container">
+        <h1>
+            Here is a user 
+        </h1>
+
+        <div>
+            @Model.FirstName @Model.LastName
+        </div>
+
+    </div>
+</div>
