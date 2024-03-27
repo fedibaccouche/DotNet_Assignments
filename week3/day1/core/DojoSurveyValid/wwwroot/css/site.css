@@ -1,0 +1,41 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.info{
+  display: flex;
+  justify-content: center;
+  gap:3rem;
+  font-size: 1.2rem;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.button{
+  display: flex;
+  justify-content: center;
+  margin-left: 13rem;
+  margin-top: 3rem;
+}
+
+span{
+  color: red;
+}
