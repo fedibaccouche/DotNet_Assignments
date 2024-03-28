@@ -1,0 +1,11 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model User
+
+<div class="text-center">
+   <h1>Successful submission </h1>
+   <h2>Name : @Model.Name</h2>
+   <h2>Date : @Model.date.ToString("D")</h2>
+</div>
