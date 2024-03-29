@@ -1,0 +1,45 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.blocks{
+  display: flex ;
+  gap: 1.2rem;
+  justify-content: center;
+}
+
+.box{
+  width: 10rem;
+  height: 5rem;
+  border: 2px solid black;
+  cursor: pointer;
+  margin: 0.5rem;
+}
+
+.nav-bar{
+  margin: 1.2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.input{
+  width: 50%;
+  margin: 0 auto;
+  border: 2px solid black;
+}
