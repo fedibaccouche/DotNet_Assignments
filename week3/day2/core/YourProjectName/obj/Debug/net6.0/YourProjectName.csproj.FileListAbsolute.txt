@@ -1,0 +1,15 @@
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\obj\Debug\net6.0\YourProjectName.csproj.AssemblyReference.cache
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\obj\Debug\net6.0\YourProjectName.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\obj\Debug\net6.0\YourProjectName.AssemblyInfoInputs.cache
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\obj\Debug\net6.0\YourProjectName.AssemblyInfo.cs
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\obj\Debug\net6.0\YourProjectName.csproj.CoreCompileInputs.cache
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\bin\Debug\net6.0\YourProjectName.exe
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\bin\Debug\net6.0\YourProjectName.deps.json
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\bin\Debug\net6.0\YourProjectName.runtimeconfig.json
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\bin\Debug\net6.0\YourProjectName.dll
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\bin\Debug\net6.0\YourProjectName.pdb
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\obj\Debug\net6.0\YourProjectName.dll
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\obj\Debug\net6.0\refint\YourProjectName.dll
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\obj\Debug\net6.0\YourProjectName.pdb
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\obj\Debug\net6.0\YourProjectName.genruntimeconfig.cache
+E:\DotNet_Assignments\week3\day2\core\YourProjectName\obj\Debug\net6.0\ref\YourProjectName.dll

@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "e:\\DotNet_Assignments\\week3\\day1\\practice\\ViewModelFun\\obj\\Debug\\net6.0\\project.razor.json",
-  "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\practice\\ViewModelFun\\ViewModelFun.csproj",
+  "SerializedFilePath": "e:\\DotNet_Assignments\\week3\\day1\\core\\Session\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\core\\Session\\Session.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -18371,56 +18371,46 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "ViewModelFun",
+  "RootNamespace": "Session",
   "Documents": [
     {
-      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\practice\\ViewModelFun\\Views\\Home\\Users.cshtml",
-      "TargetPath": "Views\\Home\\Users.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\practice\\ViewModelFun\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\core\\Session\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\practice\\ViewModelFun\\Views\\Home\\User.cshtml",
-      "TargetPath": "Views\\Home\\User.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\practice\\ViewModelFun\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\practice\\ViewModelFun\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\practice\\ViewModelFun\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\practice\\ViewModelFun\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\practice\\ViewModelFun\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\core\\Session\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\practice\\ViewModelFun\\Views\\_ViewImports.cshtml",
+      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\core\\Session\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\core\\Session\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\core\\Session\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\practice\\ViewModelFun\\Views\\Home\\Numbers.cshtml",
-      "TargetPath": "Views\\Home\\Numbers.cshtml",
+      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\core\\Session\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\core\\Session\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\DotNet_Assignments\\week3\\day1\\core\\Session\\Views\\Home\\Dashboard.cshtml",
+      "TargetPath": "Views\\Home\\Dashboard.cshtml",
       "FileKind": "mvc"
     }
   ],
