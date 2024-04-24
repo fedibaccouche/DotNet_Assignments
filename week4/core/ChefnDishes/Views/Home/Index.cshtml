@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model MyViewModel
+
+<div class="text-center">
+    
+     <div class="bar">
+        
+        <p>Chefs</p>
+        <div>|</div>
+        <a href="/dishes">Dishes</a>
+        <div>|</div>
+        <a href="/chefs/new">Add a Chef</a>
+        <div>|</div>
+        <a href="/dishes/new">Add a Dish</a>
+    </div>
+
+    <h1 class="display-4">Check out our roster of Chefs !</h1>
+    <hr>
+    <table class="table table-striped">
+  <thead>
+    <tr>
+      
+      <th scope="col">Name</th>
+      <th scope="col">Age</th>
+      <th scope="col"># of Dishes</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+      @foreach (var chef in Model.AllChefs)
+      {
+      <tr>
+        <td>@chef.FirstName @chef.LastName</td>
+        <td>@chef.Age</td>
+        <td>@(chef.AllDishes.Count)</td>
+      </tr>
+      }
+   
+    
+
+  </tbody>
+</table>    
+</div>

@@ -1,0 +1,68 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model  Dish
+<div class="text-center">
+    
+     <div class="bar">
+        
+        <a href="/">Chefs</a>
+        <div>|</div>
+        <a href="/dishes">Dishes</a>
+        <div>|</div>
+        <a href="/chefs/new">Add a Chef</a>
+        <div>|</div>
+        <p>Add a Dish</p>
+    </div>
+
+    <h1 class="display-4">Add a new Dish</h1>
+    <hr>
+    
+    <form asp-action="CreateDish" asp-controller="Home" method="post">
+    <div class="form">
+        <div >
+ 
+            <div class="form-group">
+                <label asp-for="Name">Dish's name</label>
+                <input asp-for="Name" class="form-control m-2">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Calories"># of Calories</label>
+                <input asp-for="Calories" class="form-control m-2">
+                <span asp-validation-for="Calories" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <select asp-for="ChefId" class="form-select">
+                <option value=null>--Select Chef--</option>
+                @foreach (var chef in ViewBag.AllChefs)
+                {
+                    <option value="@chef.ChefId">@chef.FirstName @chef.LastName</option>
+                }
+            <span asp-validation-for="ChefId" class="text-danger"></span>
+            </select>
+
+        </div>
+        <div>
+            <label asp-for="Tastiness">Tastiness</label>
+            <select asp-for="Tastiness" class="form-select m-2">
+                <option value=1>1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+             <span asp-validation-for="Tastiness" class="text-danger"></span>
+              <div class="form-group">
+                <input type="submit" value="Add Fish" class="btn btn-primary pos">
+            </div>
+        </div>
+   
+
+    </div>
+        
+    </form>
+
+</div>
