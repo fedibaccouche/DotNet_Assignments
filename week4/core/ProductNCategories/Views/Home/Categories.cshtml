@@ -1,0 +1,24 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model MyViewModel
+
+<div class="header ">
+    
+    <a href="/"> Products</a>
+    <div>|</div>
+    <p>  Categories</p>
+</div>
+<div class="display">
+    <div class="col">
+     @await Html.PartialAsync("_AddCategory",Model.Categorie) 
+    </div>
+    <div class="vr"></div>
+    <div class="col">
+    @await Html.PartialAsync("_DisplayCategories",Model.AllCategories)
+    </div>
+
+</div>
+
+</div>

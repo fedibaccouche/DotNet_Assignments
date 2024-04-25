@@ -1,0 +1,9 @@
+@model Product
+
+<h2>Categories</h2>
+
+
+    @foreach (Association a in Model.Associations)
+    {
+        <div>@a.Categorie.Name</div>
+    }

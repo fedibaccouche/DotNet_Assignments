@@ -1,0 +1,18 @@
+@model MyViewModel
+<div class="container">
+<h2>Add Product</h2>
+<form asp-action="AddProductToCategory" controller="Home" method="post" >
+<select class="form-select m-2" name="SelectedProduct">
+    @foreach (var item in Model.AllProducts)
+    {
+        <option value="@item.ProductId">@item.Name</option>
+    }
+    </select>
+
+    <input type="hidden" value=@Model.Categorie.CategorieId name="CategorieId">
+    
+    <input type="submit" class="btn btn-primary m-3" value="add">
+    </form>
+
+
+</div>

@@ -1,0 +1,19 @@
+ @await Html.PartialAsync("_Header") 
+
+ @model MyViewModel
+
+ <div class="container text-center">
+    <h1>
+        @Model.Product.Name
+    </h1>
+    <div class="display">
+        <div>
+             @await Html.PartialAsync("_ProductCategories",Model.Product) 
+        </div>
+        <div>
+            @await Html.PartialAsync("_AddCategoryToProduct",Model) 
+        </div>
+
+
+     </div>
+ </div>

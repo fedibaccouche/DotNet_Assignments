@@ -1,0 +1,8 @@
+@model List<Categorie>
+<h1> All Categories</h1>
+
+@foreach (Categorie p in Model)
+{   <div>
+        <a class="display-6" href="@($"/categories/{p.CategorieId}/edit")">@p.Name</a>
+    </div>
+}
