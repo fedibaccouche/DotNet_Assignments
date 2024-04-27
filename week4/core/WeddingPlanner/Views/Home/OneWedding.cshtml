@@ -1,0 +1,39 @@
+
+
+
+
+@model Wedding
+<div class="container">
+    <div class="header">
+            @if (Context.Session.GetString("Name") != null)
+        {
+            string name = (string)Context.Session.GetString("Name");
+            <div>Welcome @name</div>
+        }
+        <div class="nav">
+            <a asp-action="Weddings">Home</a>
+            <div>|</div>
+            <a asp-action="PlanWedding">Plan a Wedding</a>
+            <div>|</div>
+            <a href="/logout">Log out</a>
+        </div>
+        
+    </div>
+    <hr>
+    <div>
+        <h1> @Model.WedderOne & @Model.WedderTwo's Wedding</h1>
+
+        <div> Date : @{@Model.Date.ToString("dddd, dd MMMM yyyy")}</div>
+        <div>
+            Guests : 
+            <div class="card">
+                @foreach (var item in Model.Associations)
+                {
+                    <div class="card-body">@item.User.FirstName @item.User.LastName</div>
+                }
+                 
+            </div>
+        </div>
+    </div>
+
+</div>

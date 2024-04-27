@@ -1,0 +1,63 @@
+ @model MyViewModel
+
+<div class="container">
+    <div class="header">
+        <div>
+            Welcome @Model.User.FirstName
+        </div>
+        <div class="nav">
+            <p>Home</p>
+            <div>|</div>
+            <a asp-action="PlanWedding">Plan a wedding </a>
+            <div>|</div>
+            <a href="/logout">Log out</a>
+        </div>
+        
+    </div>
+    <hr>
+
+    <table class="table table-striped">
+            <thead class="head-table">
+                <tr>
+    
+                <th scope="col">Wedding of</th>
+                <th scope="col">Date</th>
+                <th scope="col">Guest Count</th>
+                <th scope="col">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                @foreach (var item in Model.AllWeddings)
+                {
+                    <tr>
+                        <td>
+                            <a class="wedders" href="/weddings/@item.WeddingId">@item.WedderOne & @item.WedderTwo</a>
+                        </td>
+                        <td>@item.Date.ToString("dddd, dd MMMM yyyy")</td>
+                        <td>@item.Associations.Count</td>
+                        <td>
+                            @if (item.User.UserId==Model.User.UserId)
+                            {
+                                <a asp-action="Delete" asp-route-id="@item.WeddingId" class="btn btn-danger">Delete</a>
+                            }
+                            else
+                            {
+                                     @if (item.Associations.Any(u => u.UserId == Model.User.UserId))
+                                                {
+                                                    @await Html.PartialAsync("_UNRSVP", new Association() { UserId = Model.User.UserId, WeddingId = item.WeddingId })
+                                                    
+                                                }
+                                                else
+                                                {
+                                                    @await Html.PartialAsync("_RSVP", new Association() { UserId = Model.User.UserId, WeddingId = item.WeddingId })
+                                                }
+                            }
+                        </td>
+                    </tr>
+                    
+                }
+             
+            </tbody>
+</table>
+</div>

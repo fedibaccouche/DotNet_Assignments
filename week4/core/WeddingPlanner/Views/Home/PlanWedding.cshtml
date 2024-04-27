@@ -1,0 +1,75 @@
+@{
+    int currentUserId = 0;
+    if (Context.Session.GetInt32("UserId") != null)
+    {
+        currentUserId = (int)Context.Session.GetInt32("UserId")!;
+    }
+}
+
+        
+
+
+
+  @model Wedding 
+ 
+
+<div class="container">
+    
+    <div class="header">
+            @if (Context.Session.GetString("Name") != null)
+        {
+            string name = (string)Context.Session.GetString("Name");
+            <div>Welcome @name</div>
+        }
+        <div class="nav">
+            <a asp-action="Weddings">Home</a>
+            <div>|</div>
+            <p>Plan a Wedding</p>
+            <div>|</div>
+            <a href="/logout">Log out</a>
+        </div>
+        
+    </div>
+    <hr>
+
+    <form asp-action="AddWedding" asp-controller="Home" method="post" >
+    <div class="mb-3 row">
+        <label class="form-label col-sm-2" asp-for="WedderOne" >Wedder One</label>
+        <div class="col-sm-10">
+            <input asp-for="WedderOne" class="form-control">
+        </div>
+        
+        <span asp-validation-for="WedderOne" class="text-danger"></span>
+    </div>
+    <div class="mb-3 row">
+        <label class="form-label col-sm-2" asp-for="WedderTwo" >Wedder Two</label>
+         <div class="col-sm-10">
+            <input asp-for="WedderTwo" class="form-control">
+        </div>
+        
+        <span asp-validation-for="WedderTwo" class="text-danger"></span>
+    </div>
+    <div class="mb-3 row">
+        <label class="form-label col-sm-2" asp-for="Date" ></label>
+        <div class="col-sm-10">
+            <input asp-for="Date" class="form-control">
+        </div>
+        
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+        <div class="mb-3 row">
+        <label class="form-label col-sm-2" asp-for="address" ></label>
+        <div class="col-sm-10">
+        <input asp-for="address" class="form-control">
+        </div>
+        
+        <span asp-validation-for="address" class="text-danger"></span>
+    </div>
+
+    <input type="hidden" asp-for="UserId" value="@currentUserId">
+    <div class="form-group row m-2">
+        <input type="submit" class="btn btn-primary w-25 h-25" value="Create">
+    </div>
+</form>
+
+</div> 
